@@ -1,0 +1,23 @@
+#footnote {
+   font-size: 8pt;
+}
+
+div.footnotes {
+	width: 90%;
+	font-size: 11px;
+}
+
+ul#menu {
+	padding: 10px;
+}
+ul#menu li {
+	display:inline;
+	list-style-type: circle;
+	
+}
+
+div.menu{
+	display:inline-block;
+	border-style: solid;
+	margin: 0;
+}
