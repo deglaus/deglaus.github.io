@@ -6,6 +6,7 @@ permalink: /blog/
 categories: nav
 ---
 Hello! Welcome [to](https://deglaus.github.io/blog/first/) the blog.
+:
 <ul>
   {% for post in site.posts %}
     <li>
