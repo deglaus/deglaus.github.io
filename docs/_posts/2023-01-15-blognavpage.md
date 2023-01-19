@@ -15,7 +15,7 @@ categories: nav
 	</ul>		
 	</p>
 </div>
-
+<br>
 
 Hello! Welcome to the blog.
 Posts:
